@@ -1,0 +1,2 @@
+1)run setup.py. RUN:-> Terminal : python setup.py build
+2)the .exe file : build > exe.win-amd64-3.10 > GUI.exe
